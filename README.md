@@ -1,24 +1,7 @@
 # visual_webpage_editor_ver03
 
-## Project setup
-```
-npm install
-```
+Web page editor with GUI. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+VIDEO:
+[![Watch the video](https://i.ytimg.com/vi/KTCN3isy9sk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBQW0WTfBXboJlZ5IEX7yA3lwNSQg)](https://www.youtube.com/watch?v=KTCN3isy9sk)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
