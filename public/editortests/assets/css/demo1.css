@@ -1,0 +1,23 @@
+#peter {
+    height: 10px;
+    height: 10px;
+}
+
+.pixel-class {
+    height: 50px;
+    width: 50px;
+}
+#batman {
+    height: 36px;
+    width: 36px;
+    background-color: teal;
+}
+#balloon {
+    background-color: white;
+    height: 10px;
+    width: 10px;
+}
+
+#content {
+    height: 500px;
+}
