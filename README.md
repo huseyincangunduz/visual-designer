@@ -1,4 +1,4 @@
-# visual_webpage_editor_ver03
+# Visual Designer - Demo
 
 Web page editor with GUI. 
 
